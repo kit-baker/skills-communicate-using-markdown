@@ -43,3 +43,8 @@ par(mfrow=c(1,3))
 par(mar = c(3,6,3,6))  
 myData <- import("HOBO bellows 47.xlsx")   
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete PhD
